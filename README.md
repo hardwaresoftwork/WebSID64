@@ -18,5 +18,3 @@ Used technologies:
 Author: Erik Woitschig
 
 Created during GDG DevFest Berlin 2013 Hackathon
-2013/11/03 
-
