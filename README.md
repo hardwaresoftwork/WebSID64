@@ -15,4 +15,8 @@ Used technologies:
 * HTML5 Webaudio
 * HTML5 DeviceOrientation + DeviceMotion
 
-Author: Erik Woitschig 
+Author: Erik Woitschig
+
+Created during GDG DevFest Berlin 2013 Hackathon
+2013/11/03 
+
